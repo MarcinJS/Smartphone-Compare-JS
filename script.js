@@ -13,3 +13,5 @@ var iphone = new Phone("iPhone 6s", "3499 pln", "rose gold");
 var oneplus = new Phone("OnePlus One", "1299 pln", "silver");
 
 samsung.printInfo();
+iphone.printInfo();
+oneplus.printInfo();
